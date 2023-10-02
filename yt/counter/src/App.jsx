@@ -14,11 +14,11 @@ function App() {
   }
 
   const deleteValue = () => {
-    setCounter(counter-+1)
-    setCounter(counter-+1)
-    setCounter(counter-+1)
-    setCounter(counter-+1)
-    setCounter(counter-+1)
+    setCounter(counter-=1)
+    setCounter(counter-=1)
+    setCounter(counter-=1)
+    setCounter(counter-=1)
+    setCounter(counter-=1)
   }
 
   return (
